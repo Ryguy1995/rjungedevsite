@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!-- e36.html
+     Project8  Exercise 3.6
+     -->
+<html lang = "en">
+  <head> 
+    <title> Exercise 3.6 </title>
+    <style type = "text/css">
+      ol {list-style-type: upper-roman;}
+      ol ol {list-style-type: upper-alpha;}
+      ol ol ol {list-style-type: decimal;}
+      li.pink {color: pink}
+      li.blue {color: blue}
+      li.red {color: red}
+    </style>
+    <meta charset = "" />
+  </head>
+  <body>
+    <ol>
+      <li class = "pink"> Compact Cars
+		<ol>
+          <li> Two door </li>
+			<ol> 
+			<li> Hyundai Accent</li>
+			<li> Chevrolet Cobalt</li>
+			<li> Honda Civic</li>
+			</ol>
+		  <li> Four Door</li>
+			<ol>
+			<li> Hyundai Accent</li>
+			<li> Chevrolet Cobalt</li>
+			<li> Honda Civic</li>
+			</ol>
+		  </ol>
+	   <li class = "blue"> Midsize Cars
+			<ol>
+			<li> Two Door</li>
+				<ol>
+				<li> Honda Accord</li>
+				<li> Hyundai Genesis</li>
+				<li> Nissan Altima</li>
+				</ol>
+			<li> Four Door</li>
+				<ol>
+				<li> Honda Accord</li>
+				<li> Dodge Avenger</li>
+				<li> Ford Fusion</li>
+				</ol>
+			</ol>
+		<li class = "red"> Sports Cars
+			<ol>
+			<li> Coupe</li>
+				<ol>
+				<li> Jaguar XK</li>
+				<li> Ford Mustang</li>
+				<li> Nissan Z</li>
+				</ol>
+			<li> Convertible</li>
+				<ol> 
+				<li> Mazda Miata</li>
+				<li> Ford Mustange</li>
+				<li> Lotus Elise</li>
+				</ol>
+				
